@@ -1,0 +1,155 @@
+
+
+.cabecalho{
+    background-color:#15C872;
+    position: absolute;
+    width: 1440px;
+    height: 156.93px;
+    left: 0px;
+    top: 0px;
+    
+    
+}
+.cabecalho-logo{
+    width:161px;
+    height:163.35px;
+
+
+}
+h1{
+    position: absolute;
+    top:170px;
+    left: 200px;
+    text-align: center;
+    font-weight:400;
+    font-size: 20px;
+}
+
+    
+
+.img-principal{
+    position: absolute;
+    width: 519px;
+    height: 340px;
+    left: 871px;
+    top: 210px;
+}
+.item-menu1{
+    position: absolute;
+    width: 71px;
+    height: 18.07px;
+    left: 177px;
+    top: 130.3px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}
+.item-menu2{
+    position: absolute;
+    width: 76px;
+    height: 18.07px;
+    left: 388px;
+    top: 130.3px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+
+}
+.texto{
+position: absolute;
+width: 438px;
+height: 195px;
+left: 80px;
+top: 300px;
+text-align: justify;
+
+color: #000000;
+
+}
+
+.foto{
+    position: absolute;
+    width:300px;
+    height:200px;
+    left:100px;
+}
+
+.paragrafo{
+
+   position: absolute;
+    width: 1000px;
+    left: 200px;
+    top: 210px;
+    font-style: normal;
+    line-height: 19px;
+}
+
+.rodape{
+    position: absolute;
+    width: 1440px;
+    height: 50px;
+    left: 0px;
+    top:1500px;
+   
+
+    background: rgba(21, 200, 114, 0.5);
+}
+.endereco{
+    position: absolute;
+    width: 326px;
+    height: 45px;
+    left: 14px;
+    color:#FFFFFF;
+    line-height: 19px;
+
+
+
+}
+.telefone{
+    position: absolute;
+    width: 257px;
+    height: 38px;
+    left: 1170px;
+    
+    color:#FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 19px;
+}
+
+.divfoto{
+    position: absolute;
+    width:300px;
+    height:200px;
+    left:400px;
+}
+
+.paragrafo2{
+    position:absolute;
+    width: 1000px;
+    left: 200px;
+    top:550px;
+}
+.paragrafo3{
+    position:absolute;
+    width: 1000px;
+    left: 200px;
+    top:800px;
+}
+.paragrafo4{
+    position:absolute;
+    width: 1000px;
+    left:200px;
+    top:1060px;
+}
+
